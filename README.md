@@ -1,5 +1,5 @@
 # Lending-Club-Case-Study
-**Table of Contents**
+*Table of Contents*
 
 **Introduction**
 
@@ -60,9 +60,15 @@ I couldn’t see any direct relation to loan amount issued to customer income or
 **Technologies Used**
 
 seaborn 0.11.1
+
 jupyter 1.0.0
+
 numpy 1.20.1
+
 anaconda 2021.05
+
 python 3.8.8
+
 matplotlib 3.3.4
+
 Microsoft excel

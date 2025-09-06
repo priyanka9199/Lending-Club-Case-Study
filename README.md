@@ -1,7 +1,7 @@
 # Lending-Club-Case-Study
-*Table of Contents*
+**Table of Contents**
 
-**Introduction**
+***Introduction***
 
 EDA Observations & recommendations
 
